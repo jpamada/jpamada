@@ -1,4 +1,4 @@
-<img src="github_banner" alt="Banner" style="max-width: 100%;">
+<img src="github_banner.png" alt="Banner" style="max-width: 100%;">
 
 # 💻🚀 Johnrey Pamada
 
