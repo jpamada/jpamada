@@ -1,3 +1,5 @@
+<img src="github_banner" alt="Banner" style="max-width: 100%;">
+
 # 💻🚀 Johnrey Pamada
 
 **`Tech Enthusiast (Developer/Gamer/Creator)`**
