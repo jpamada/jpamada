@@ -32,3 +32,8 @@ Hello World! I'm an aspiring IT professional with hands-on experience in develop
 <img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 <img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+
+<hr>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jpamada" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/jpamada?trk=profile-badge">Johnrey Pamada</a></div>
+              
