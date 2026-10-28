@@ -6,7 +6,7 @@
 
 I'm an aspiring IT professional with hands-on experience in software development and IT support. Motivated to apply technical skills and learn industry standard practices.
 
-<p>
+<p align="left">
   <a href="www.linkedin.com/in/jpamada" style="margin-right:10px">
     LinkedIn
   </a>
