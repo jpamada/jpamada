@@ -1,34 +1,35 @@
 <img src="github_banner.png" alt="Banner" style="max-width: 100%;">
 
-# 💻🚀 Johnrey Pamada
+# Johnrey Pamada 💻🚀
 
-**`Tech Enthusiast (Developer/Gamer/Creator)`**
+**`Tech Enthusiast (Developer)`**
 
-I'm an aspiring IT professional with hands-on experience in developing apps and programs. I have a solid foundation in database design, REST API development, responsive front-end interfaces, and essential debugging skills. Motivated to apply technical abilities, learn industry best practices, and contribute to high-quality software solutions.
+I'm an aspiring IT professional with hands-on experience in software development and IT support. Motivated to apply technical skills and learn industry standard practices.
 
-<p align="left">
-  <a href="www.linkedin.com/in/jpamada">
-    <img alt="linkedin profile" title="My linkedin profile"
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
+<div align="left">
+  <a href="www.linkedin.com/in/jpamada" style="margin-right:10px">
+    LinkedIn ·
   </a>
-</p>
+
+  <a href="https://jpamada-portfolio.vercel.app/" style="margin-right:10px">
+    Portfolio ·
+  </a>
+
+  <a href="https://jpamada-dev.vercel.app/" style="margin-right:10px">
+    Website
+  </a>
+</div>
 
 <hr>
 
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />     
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-<img align="left" alt="" width="30px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+# ⭐ Featured Projects
+
+<p>
+  <a href="https://github.com/jpamada/janki">
+    Janki
+  </a>
+
+  <span>
+    - Inspired by Anki and Duolingo. Janki is a learning app that allows users to create their own questions that can handle multiple choices, identifications, images, and code snippets with spaced-repetition.
+  </span>
+</p>
