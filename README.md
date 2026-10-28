@@ -1,24 +1,22 @@
 <img src="github_banner.png" alt="Banner" style="max-width: 100%;">
 
-# Johnrey Pamada 💻🚀
+# 🚀 Johnrey Pamada
 
 **`Tech Enthusiast (Developer)`**
 
 I'm an aspiring IT professional with hands-on experience in software development and IT support. Motivated to apply technical skills and learn industry standard practices.
 
-<div align="left">
-  <a href="www.linkedin.com/in/jpamada" style="margin-right:10px">
-    LinkedIn ·
-  </a>
+<a href="www.linkedin.com/in/jpamada" style="margin-right:10px">
+  LinkedIn ·
+</a>
 
-  <a href="https://jpamada-portfolio.vercel.app/" style="margin-right:10px">
-    Portfolio ·
-  </a>
+<a href="https://jpamada-portfolio.vercel.app/" style="margin-right:10px">
+  Portfolio ·
+</a>
 
-  <a href="https://jpamada-dev.vercel.app/" style="margin-right:10px">
-    Website
-  </a>
-</div>
+<a href="https://jpamada-dev.vercel.app/" style="margin-right:10px">
+  Website
+</a>
 
 <hr>
 
