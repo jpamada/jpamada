@@ -7,7 +7,7 @@
 I'm an aspiring IT professional with hands-on experience in software development and IT support. Motivated to apply technical skills and learn industry standard practices.
 
 <p style="display:flex">
-  <a href="www.linkedin.com/in/jpamada" style="margin-right:10px">LinkedIn</a> <span> · </span> <a href="https://jpamada-portfolio.vercel.app/" style="right:10px"> Portfolio </a> <span> · </span> <a href="https://jpamada-dev.vercel.app/" style="margin-right:10px"> Website </a></p>
+  <a href="https://www.linkedin.com/in/jpamada/" style="margin-right:10px">LinkedIn</a> <span> · </span> <a href="https://jpamada-portfolio.vercel.app/" style="right:10px"> Portfolio </a> <span> · </span> <a href="https://jpamada-dev.vercel.app/" style="margin-right:10px"> Website </a></p>
 
 <hr>
 
