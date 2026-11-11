@@ -22,3 +22,13 @@ I'm an aspiring IT professional with hands-on experience in software development
     - Inspired by Anki and Duolingo. Janki is a learning app that allows users to create their own questions that can handle multiple choices, identifications, images, and code snippets with spaced-repetition.
   </span>
 </p>
+
+<p>
+  <a href="https://github.com/jpamada/n8n-job-application-workflow">
+    n8n Workflow Automation
+  </a>
+
+  <span>
+    - A workflow automation that integrates Google services such as Sheets, Forms, Docs, and Drive in order to increase workflow efficiency and improve data validation.
+  </span>
+</p>
