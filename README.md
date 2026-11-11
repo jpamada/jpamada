@@ -32,3 +32,13 @@ I'm an aspiring IT professional with hands-on experience in software development
     - A workflow automation that integrates Google services such as Sheets, Forms, Docs, and Drive in order to increase workflow efficiency and improve data validation.
   </span>
 </p>
+
+<p>
+  <a href="https://jpamada-dev.vercel.app">
+    Personal Website
+  </a>
+
+  <span>
+    - A personal website that showcases my hobbies like blogs, music, and learning with a ticketing system to let views request website updates or bug fixes. 
+  </span>
+</p>
